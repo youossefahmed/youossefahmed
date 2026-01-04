@@ -1,77 +1,61 @@
-<h1 align="center">Computer Science & Artificial Intelligence Student</h1>
-<h3 align="center">Web Development • Artificial Intelligence • Problem Solving</h3>
+<h1 align="center">Hi, I'm a CS & AI Student 👋</h1>
+<p align="center">
+Building things with <b>code</b>, <b>logic</b>, and a bit of <b>creativity</b>.
+</p>
+
+<p align="center">
+<b>Web Development</b> • <b>Artificial Intelligence</b> • <b>Problem Solving</b>
+</p>
 
 ---
 
-## Professional Summary
-Computer Science and Artificial Intelligence student with a strong passion for **Web Development** and **AI-driven solutions**.  
-Experienced in academic projects, internships, and personal initiatives that focus on building practical, scalable, and user-centered applications.  
-
-Actively involved in student leadership as **Vice Head of the Publicity Committee at IEEE PUA SB**, where I developed strong communication, teamwork, and organizational skills alongside technical growth.
-
----
-
-## Core Focus Areas
-- Web Development (Frontend Foundations)
-- Artificial Intelligence & Problem Solving
-- Data Structures & Algorithms
-- Continuous Learning & Skill Enhancement
+## 👨‍💻 About Me
+- 🎓 Computer Science & Artificial Intelligence student  
+- 💡 Interested in **Web Development** and **AI-based systems**  
+- 🛠 Turning academic knowledge into real, usable projects  
+- 🤝 Vice Head of Publicity Committee at **IEEE PUA SB**  
+- 🚀 Always learning, building, and improving  
 
 ---
 
-## Experience & Activities
-- **Academic Projects**  
-  Applied computer science and AI concepts to real-world problem scenarios.
-
-- **Internships**  
-  Gained hands-on experience working in structured development environments.
-
-- **Personal Projects**  
-  Built independent projects to strengthen technical skills and creativity.
-
-- **IEEE PUA SB**  
-  Vice Head of Publicity Committee — responsible for branding, content creation, and team coordination.
+## 🔍 What I’m Focused On
+- Building clean and responsive web interfaces  
+- Strengthening problem-solving and algorithmic thinking  
+- Exploring AI concepts and practical applications  
+- Writing better, more maintainable code  
 
 ---
 
-## Technical Skills
-**Programming Languages**
-- C++
-- Python
-
-**Web Development**
-- HTML5
-- Basic Frontend Concepts
-
-**Tools & Platforms**
-- Git & GitHub
-- Canva
+## 🧰 Tech Stack
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,python,html,git,github,canva" />
+</p>
 
 ---
 
-## Featured Projects
-> *(Replace with real repositories when available)*
-
+## 🚀 Featured Work
 - **Personal Blog Homepage**  
-  Responsive blog layout with filters, cards, and pagination using HTML, CSS, and JavaScript.
+  Responsive layout with filters, cards, and pagination.
 
-- **Scratch Educational Projects**  
-  Designed multi-level interactive learning games for beginners.
+- **Scratch Learning Projects**  
+  Interactive educational games for beginners.
 
-- **Academic & AI Practice Projects**  
-  Problem-solving implementations and algorithm-based solutions.
-
----
-
-## Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/YOUR_PROFILE  
-- **GitHub:** https://github.com/YOUR_USERNAME  
-- **Behance:** https://www.behance.net/YOUR_PROFILE  
-- **Email:** yourmail@email.com  
+- **AI & Algorithm Practice**  
+  Problem-solving and logic-driven implementations.
 
 ---
 
-## GitHub Statistics
+## 🌐 Let’s Connect
+<p align="left">
+<a href="https://www.linkedin.com/in/YOUR_PROFILE">LinkedIn</a> •
+<a href="https://github.com/YOUR_USERNAME">GitHub</a> •
+<a href="https://www.behance.net/YOUR_PROFILE">Behance</a> •
+<a href="mailto:yourmail@email.com">Email</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true" />
 </p>
@@ -82,19 +66,19 @@ Actively involved in student leadership as **Vice Head of the Publicity Committe
 
 ---
 
-## GitHub Achievements
+## 🏆 Achievements
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&row=1&column=6" />
 </p>
 
 ---
 
-## Professional Quote
+## ✨ Dev Quote
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
 </p>
 
 ---
 
-⭐ *Open to internships, academic collaborations, and entry-level opportunities in Web Development and Artificial Intelligence.*
+⭐ *Currently open to internships, collaborations, and learning opportunities.*
 
