@@ -53,6 +53,7 @@ Actively seeking opportunities for **internships, junior roles, and research exp
 
 ## ✨ Quote
 <p align="center">
-<i>"The mind is not filled with knowledge, but opens the doors of understanding." – Plato </i>
+<i>"The mind is not filled with knowledge, but opens the doors of understanding."
+  – Plato </i>
 </p>
 
