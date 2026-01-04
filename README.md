@@ -1,51 +1,44 @@
 <h1 align="center">Computer Science & Artificial Intelligence Student</h1>
 <p align="center">
-Focused on <b>Artificial Intelligence</b>, problem solving, and building intelligent systems.
+Interested in computing systems, intelligent technologies, and problem solving.
 </p>
 
 ---
 
 ## 👤 About Me
 - 🎓 Computer Science & Artificial Intelligence student  
-- 🤖 Strong interest in **Artificial Intelligence** and data-driven solutions  
-- 🧠 Passionate about problem solving, algorithms, and logical thinking  
-- 📚 Experience with academic projects, internships, and self-learning  
-- 🤝 Vice Head of Publicity Committee at **IEEE PUA SB**, combining leadership with technical growth  
-
----
-
-## 🎯 Current Focus
-- Artificial Intelligence fundamentals  
-- Algorithms & data structures  
-- Problem-solving using C++ and Python  
-- Understanding how intelligent systems work and make decisions  
+- 💡 Strong interest in software development, artificial intelligence, and computing fundamentals  
+- 🧠 Passionate about logical thinking, problem solving, and continuous learning  
+- 📚 Experience with academic projects, internships, and personal learning initiatives  
+- 🤝 Vice Head of Publicity Committee at **IEEE PUA SB**, contributing to team leadership and communication  
 
 ---
 
 ## 🧰 Technical Skills
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,python,git,github,canva" />
+<img src="https://skillicons.dev/icons?i=cpp,python,html,git,github,canva" />
 </p>
 
 **Programming Languages**
 - C++
 - Python  
 
-**Tools**
+**Development & Tools**
+- HTML5  
 - Git & GitHub  
 - Canva  
 
 ---
 
-## 🧪 Projects & Practice
-- **AI & Algorithm Practice**  
-  Implementing search algorithms, optimization techniques, and problem-solving tasks.
+## 📁 Projects & Experience
+- **Academic Projects**  
+  Coursework-based implementations applying computer science and AI concepts.
 
-- **Academic AI Projects**  
-  Applying theoretical AI concepts through practical coursework and assignments.
+- **Internships & Training**  
+  Practical exposure to professional environments and real-world problem solving.
 
-- **Personal Learning Projects**  
-  Small experiments and implementations to strengthen understanding of AI fundamentals.
+- **Personal Projects**  
+  Independent projects focused on strengthening technical understanding and skills.
 
 ---
 
@@ -56,5 +49,5 @@ Focused on <b>Artificial Intelligence</b>, problem solving, and building intelli
 
 ---
 
-⭐ *Open to AI-focused internships, academic collaborations, and learning opportunities.*
+⭐ *Open to internships, academic collaborations, and entry-level opportunities in computer science and artificial intelligence.*
 
