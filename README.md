@@ -1,53 +1,67 @@
 <h1 align="center">Computer Science & Artificial Intelligence Student</h1>
 <p align="center">
-Interested in computing systems, intelligent technologies, and problem solving.
+Exploring computing, intelligent systems, research, and real-world applications.
 </p>
 
 ---
 
-## 👤 About Me
-- 🎓 Computer Science & Artificial Intelligence student  
-- 💡 Strong interest in software development, artificial intelligence, and computing fundamentals  
-- 🧠 Passionate about logical thinking, problem solving, and continuous learning  
-- 📚 Experience with academic projects, internships, and personal learning initiatives  
-- 🤝 Vice Head of Publicity Committee at **IEEE PUA SB**, contributing to team leadership and communication  
+## About Me
+I am a Computer Science & Artificial Intelligence student with a strong interest in **multiple computing fields**, including artificial intelligence, core computer science concepts, and software development.
+
+I am motivated by **learning, research, and building projects**, and I actively seek opportunities that help me grow both technically and professionally. Alongside my technical journey, I have experience in **team leadership and student activities**, which strengthened my communication and organizational skills.
 
 ---
 
-## 🧰 Technical Skills
+## Interests & Goals
+- Artificial Intelligence and intelligent systems  
+- Core computer science concepts  
+- Academic research and continuous study  
+- Building practical and scalable projects  
+- Team leadership and collaboration  
+
+I am currently open to **internships, junior roles, and research opportunities** that allow me to explore and grow across these areas.
+
+---
+
+## Technical Skills
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,python,html,git,github,canva" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,git,github,canva" />
 </p>
 
 **Programming Languages**
-- C++
 - Python  
+- C  
+- C++  
 
-**Development & Tools**
-- HTML5  
+**Web Fundamentals**
+- HTML  
+- CSS  
+- JavaScript  
+
+**Tools**
 - Git & GitHub  
 - Canva  
 
 ---
 
-## 📁 Projects & Experience
+## Projects & Experience
 - **Academic Projects**  
-  Coursework-based implementations applying computer science and AI concepts.
-
-- **Internships & Training**  
-  Practical exposure to professional environments and real-world problem solving.
+  Implementations related to computer science and AI coursework.
 
 - **Personal Projects**  
-  Independent projects focused on strengthening technical understanding and skills.
+  Ongoing projects focused on applying concepts, improving problem-solving skills, and gaining hands-on experience.
+
+- **Leadership Experience**  
+  **Vice Head of Publicity Committee – IEEE PUA SB**  
+  Contributed to team management, content planning, and coordination while working within a structured organization.
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/YOUR_PROFILE  
 - **GitHub:** https://github.com/YOUR_USERNAME  
 - **Email:** yourmail@email.com  
 
 ---
 
-⭐ *Open to internships, academic collaborations, and entry-level opportunities in computer science and artificial intelligence.*
-
+⭐ *Actively seeking internships, entry-level opportunities, and research experiences in computer science and artificial intelligence.*
