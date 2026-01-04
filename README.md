@@ -5,25 +5,24 @@ Exploring computing, intelligent systems, research, and real-world applications.
 
 ---
 
-## About Me
-I am a Computer Science & Artificial Intelligence student with a strong interest in **multiple computing fields**, including artificial intelligence, core computer science concepts, and software development.
+## 👤 About Me
+CS & AI student interested in computer science fundamentals, artificial intelligence, research, and building practical projects.  
+Actively seeking opportunities for **internships, junior roles, and research experience**, while developing both technical and leadership skills.
 
-I am motivated by **learning, research, and building projects**, and I actively seek opportunities that help me grow both technically and professionally. Alongside my technical journey, I have experience in **team leadership and student activities**, which strengthened my communication and organizational skills.
-
----
-
-## Interests & Goals
-- Artificial Intelligence and intelligent systems  
-- Core computer science concepts  
-- Academic research and continuous study  
-- Building practical and scalable projects  
-- Team leadership and collaboration  
-
-I am currently open to **internships, junior roles, and research opportunities** that allow me to explore and grow across these areas.
+🤝 Vice Head of Publicity Committee at **IEEE PUA SB**
 
 ---
 
-## Technical Skills
+## 🎯 Interests
+- Artificial Intelligence  
+- Core Computer Science  
+- Academic Research & Study  
+- Project Development  
+- Team Leadership & Collaboration  
+
+---
+
+## 🧰 Technical Skills
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,git,github,canva" />
 </p>
@@ -34,34 +33,26 @@ I am currently open to **internships, junior roles, and research opportunities**
 - C++  
 
 **Web Fundamentals**
-- HTML  
-- CSS  
-- JavaScript  
-
-**Tools**
-- Git & GitHub  
-- Canva  
+- HTML • CSS • JavaScript  
 
 ---
 
-## Projects & Experience
-- **Academic Projects**  
-  Implementations related to computer science and AI coursework.
-
-- **Personal Projects**  
-  Ongoing projects focused on applying concepts, improving problem-solving skills, and gaining hands-on experience.
-
-- **Leadership Experience**  
-  **Vice Head of Publicity Committee – IEEE PUA SB**  
-  Contributed to team management, content planning, and coordination while working within a structured organization.
+## 📁 Projects & Experience
+- Academic & personal projects applying CS and AI concepts  
+- Ongoing hands-on learning through real implementations  
+- Leadership experience in student activities and teamwork  
 
 ---
 
-## Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/YOUR_PROFILE  
-- **GitHub:** https://github.com/YOUR_USERNAME  
-- **Email:** yourmail@email.com  
+## 🌐 Connect With Me
+- **LinkedIn:** [https://www.linkedin.com/in/YOUR_PROFILE  ](https://www.linkedin.com/in/youssef-ahmed-a65b40345/)
+- **Email:** joo.12f098@gmail.com
+- **Instgram** https://www.instagram.com/joo_yas00?igsh=MWNnNXJzbndjNHc0eQ==
 
 ---
 
-⭐ *Actively seeking internships, entry-level opportunities, and research experiences in computer science and artificial intelligence.*
+## ✨ Quote
+<p align="center">
+<i>"The mind is not filled with knowledge, but opens the doors of understanding." – Plato </i>
+</p>
+
