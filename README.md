@@ -1,6 +1,7 @@
 # Youusef Ahmed
 
-Computer Science & Artificial Intelligence Student | Vice Head of Publicity Committee @ IEEE PUA SB
+Computer Science & Artificial Intelligence Student | 
+Vice Head of Publicity Committee @ IEEE PUA SB
 
 ---
 
@@ -8,7 +9,7 @@ Computer Science & Artificial Intelligence Student | Vice Head of Publicity Comm
 I’m a CS & AI student passionate about learning, building projects, and exploring multiple areas in computing and AI.  
 I enjoy transforming ideas into real projects and contributing to team success while continuously improving my technical and leadership skills.
 
-*"Curious, disciplined, and always striving to learn more"* 🎯
+*"Curious, disciplined, and always striving to learn more"* 
 
 ---
 
@@ -57,10 +58,10 @@ I enjoy transforming ideas into real projects and contributing to team success w
 ---
 
 ## 🌟 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_PROFILE) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@email.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-ahmed-a65b40345/) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]( https://github.com/youossefahmed/youossefahmed/edit/main/README.md) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joo.12f098@gmail.com) 
+ 
 
-*"Learning, building, and growing through projects, research, and collaboration"* 📖
+*""The mind is not filled with knowledge, but opens the doors of understanding." – Plato"* 
 
